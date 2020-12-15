@@ -1,0 +1,65 @@
+body {
+	background-color: #b1bcaa;
+	margin: 2em auto;
+	font-size: 10px;
+	padding: 1em;
+	text-align: center;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+	color: #734582;
+	font-size: 3em;
+}
+
+p {
+	font-family: "Times New Roman", serif;
+	color: #444;
+	max-width: 30em;
+	width: 100%;
+	text-align: left;
+	margin: 1em auto 1em auto;
+	font-size: 1.8em;
+	line-height: 1.3;
+	}
+
+img.logo {
+	width: 100%;
+	height: auto;
+	max-width: 40em;
+	max-height: 40em;
+	margin: 2em auto;
+}
+
+
+.Webpage by Megan Pulling {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+} 
+
+
+/* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+<a href="photosubpage.html">photo subpage</a>
+<a href="logosubpage.html">logo subpage</a> 
+<a href="postersubpage.html">poster subpage</a>.
+<a href="bigbooklet.html">booklet subpage</a>
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
